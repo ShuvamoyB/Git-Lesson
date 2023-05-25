@@ -9,6 +9,7 @@
 +  `git add .` <br>
 +  `git commit -m` <br>
 +  `git push` <br>
+----------------------------
 
 +  `git init` <br>
 +  `git add .` <br>
@@ -19,10 +20,10 @@
 
 <br>
 
-### 1. Create Repo in GitHub and Copy HTTPS Link
+### 1. Create Repo in GitHub and Copy HTTPS Link for Git Clone
 ![Create Repo in GitHub and Copy HTTPS Link:](assets/gitTest_1.png "Create Repo in GitHub and Copy HTTPS Link") <br>
 <br>
 
-### 2. Open Git Bash and Clone the Repo
-![pen Git Bash and Clone the Repo:](assets/gitTest_2.png "pen Git Bash and Clone the Repo") <br>
+### 2. Open Git Bash, Clone the Repo and Create a Text File
+![pen Git Bash and Clone the Repo:](assets/gitTest_2.png "Open Git Bash and Clone the Repo") <br>
 <br>
